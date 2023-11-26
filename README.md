@@ -56,9 +56,10 @@ The data for 2019 was found in OneDrive with file name startup_funding2019.csv.
 
 The third part of the data (data for 2018) is hosted on a GitHub Repository in a file called startup_funding2018.csv.
 
-# Author
-Alexander Ndunda
+### Article
+
+An article was publised on this project on medium. Kinldy access it <a  href='https://medium.com/new-story'>here.</a>
 
 Thank you.
 
-Link to article on Medium: 
+
