@@ -58,3 +58,7 @@ The third part of the data (data for 2018) is hosted on a GitHub Repository in a
 
 # Author
 Alexander Ndunda
+
+Thank you.
+
+Link to article on Medium: 
