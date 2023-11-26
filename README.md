@@ -58,7 +58,7 @@ The third part of the data (data for 2018) is hosted on a GitHub Repository in a
 
 ### Article
 
-An article was publised on this project on medium. Kinldy access it <a  href='https://medium.com/new-story'>here.</a>
+An article was publised on this project on medium. Kinldy access it <a  href='https://medium.com/@ndunda.alex/521757ba17c9'>here.</a>
 
 Thank you.
 
